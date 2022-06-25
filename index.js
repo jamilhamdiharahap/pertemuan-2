@@ -1,5 +1,9 @@
+import chalk from "chalk";
+
+
+
 (function(){
-    console.log("Hello world")
+    console.log(chalk.blue("Hello world"))
 }());
 
 const makanan = (jenis) => "jenis nya adalah " + jenis
@@ -19,4 +23,5 @@ console.log(keranjang)
 
 
 const name = "jamil"
-console.log(name && "hamdi")
+
+console.log(chalk.bgBlue(`Hello ${name}`))

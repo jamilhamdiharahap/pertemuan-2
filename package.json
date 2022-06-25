@@ -1,0 +1,23 @@
+{
+  "name": "pertemuan_2",
+  "version": "1.0.0",
+  "description": "Belajar Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "javascript-test-runner"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamilhamdiharahap/pertemuan-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamilhamdiharahap/pertemuan-2/issues"
+  },
+  "homepage": "https://github.com/jamilhamdiharahap/pertemuan-2#readme",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  },
+  "type": "module"
+}
